@@ -1,4 +1,4 @@
-### Ola Sou o Edmilson 
+### Olá Sou o Edmilson 
 
 Bom tenho 16 anos atualmente,e amo programação,mas expecificamente,desenvolvimento web,estudo tanto o front-end quanto o back-end,
 infelizmente ainda não tenho condições de comprar um PC/Notebook,e vou me esforçando ao maximo,para aprender e evoluir cada dia mais,usando meu celular android para estudar e programar
