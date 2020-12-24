@@ -1,8 +1,6 @@
 ### Olá Sou o Edmilson
 
 Tenho 16 anos atualmente e amo programação, especificamente desenvolvimento web. Estudo tanto o front-end quanto o back-end.
-Infelizmente ainda não tenho condições de comprar um PC/Notebook, mas vou me esforçando ao máximo para aprender e evoluir cada dia mais, usando meu celular Android para estudar e programar.
-Muitas pessoas não acreditam que eu consigo estudar e programar usando meu celular, mas sim eu consigo. As vezes eu encontro barreiras que sou obrigado a parar e mudar de caminho, mas desistir, nunca!
 
 E não menos importante adoro estudar, estruturas de dados e algoritmos :)
 
